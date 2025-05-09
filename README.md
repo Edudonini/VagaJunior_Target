@@ -15,10 +15,6 @@ O projeto está organizado em pastas, cada uma contendo a solução para um desa
 ## Tecnologias Utilizadas
 
 - C# (.NET 6.0)
-- SQL Server
-- Node.js
-- Angular
-- HTML/CSS
 
 ## Como Executar
 
